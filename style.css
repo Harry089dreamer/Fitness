@@ -140,3 +140,110 @@ transition: .8ms;
             margin-top: 0px;
 
         }
+        .imgg1{ 
+            width: 300px;
+            height: 300px;
+        } 
+        .imgg2{ 
+            width: 300px;
+            height: 300px;
+        } 
+        .title-4{ 
+            text-align: center;
+        } 
+        .about-cont{ 
+            background-color: black; 
+            display: flex; 
+           /* justify-content: space-evenly; 
+            align-items: center;*/ 
+            height: 700px;
+        } 
+        .about-right{ 
+            color: aliceblue;  
+            width: 700px; 
+            border: 1px solid rgb(110, 6, 6);  
+            margin-left: 40px;
+            padding: 300px;
+
+        } 
+        .about-left{ 
+            width: 700px;  
+            border: 1px solid rgb(80, 7, 7);
+           
+        } 
+.image-container{ display: flex; 
+}
+
+       .image-container img{ 
+        width: 350px; 
+        height: 550px; 
+        transform: skewY(-15deg); 
+        display: flex;
+        margin-top: 70px;
+       } 
+       .btn-text{ 
+        text-decoration: none;
+        color: aliceblue;
+       } 
+       .workout-container{ 
+background-image: url(image/purple.jpg);
+        background-position: center; 
+    background-size: cover;
+       width: 700px; 
+       height: 100px;
+        text-align: center; 
+        border-radius: 10px; 
+        margin:  0 auto; 
+        margin-top: 40px; 
+        padding-top: 20px;
+       } 
+       .Our-Services{ 
+        display: flex;  
+        margin: 80px; 
+        text-align: center; 
+        justify-content: space-evenly;
+       
+       } 
+       .guiter1{ 
+        width: 500px; 
+        height: 800px; 
+        border: 1px solid gray; 
+        padding: 10px; 
+        box-shadow: 10px 20px 16px ; 
+        border-radius: 10px; 
+        margin-top: 40px;  
+    
+        transition: .8ms;
+       } 
+       .guiter2{ 
+        width: 500px; 
+        height: 800px; 
+        border: 1px solid gray; 
+        padding: 10px; 
+        box-shadow: 10px 20px 16px ; 
+        border-radius: 10px; 
+        margin-top: 40px; 
+        transition: .8ms;
+       } 
+       .guiter3{ 
+        width: 500px; 
+        height: 800px; 
+        border: 1px solid gray; 
+        padding: 10px; 
+        box-shadow: 10px 20px 16px ; 
+        border-radius: 10px; 
+        margin-top: 40px; 
+        transition: .8ms;
+       }
+       .gi1{ 
+        width: 500px; 
+        height: 500px;
+    }
+    .gi2{ 
+        width: 500px; 
+        height: 500px;
+    } 
+    .gi3{ 
+        width: 500px; 
+        height: 500px;
+    } 
